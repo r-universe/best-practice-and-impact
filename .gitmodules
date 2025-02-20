@@ -5,3 +5,6 @@
 [submodule "afcharts"]
 	path = afcharts
 	url = https://github.com/best-practice-and-impact/afcharts
+[submodule "aftables"]
+	path = aftables
+	url = https://github.com/best-practice-and-impact/aftables
